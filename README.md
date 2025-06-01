@@ -1,4 +1,4 @@
-# Mini---Max-Sum-Algorithm
+# Mini-Max-Sum-Algorithm
 
 Problem
 
